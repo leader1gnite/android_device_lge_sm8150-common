@@ -425,10 +425,6 @@ PRODUCT_PACKAGES += \
     android.hardware.tetheroffload.config@1.0.vendor \
     android.hardware.tetheroffload.control@1.0.vendor
 
-# Touch
-PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.lge_sm8150
-
 # Update engine
 PRODUCT_HOST_PACKAGES += \
     brillo_update_payload
